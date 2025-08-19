@@ -12,6 +12,7 @@ certificates_and_certifications/
 |   |       ├── John Mike Asuncion - Data Literacy.pdf
 |   |       ├── John Mike Asuncion - Human-Centered Communication.pdf
 |   |       ├── John Mike Asuncion - No-Code Analytics in Workplace.pdf
+|   |       ├── John Mike Asuncion - No-Code Building for Corporate.pdf
 |   |       ├── John Mike Asuncion - The Impact of AI-Powered Vibe Coding on Data Analytics.pdf
 |   |       ├── John Mike Asuncion - The NGO of the Future - AI & Social Impact.pdf
 |   |       └── John Mike Asuncion - Turning Social Impact Services into a Product with AI.pdf
