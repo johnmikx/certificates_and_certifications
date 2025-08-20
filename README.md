@@ -10,6 +10,7 @@ certificates_and_certifications/
 |   |       ├── John Mike Asuncion - AI Productivity for Government.pdf
 |   |       ├── John Mike Asuncion - Data Literacy in Corporations.pdf
 |   |       ├── John Mike Asuncion - Data Literacy.pdf
+|   |       ├── John Mike Asuncion - HR's First AI Tool for Upskilling. Survey Design Support.pdf
 |   |       ├── John Mike Asuncion - Human-Centered Communication.pdf
 |   |       ├── John Mike Asuncion - No-Code Analytics in Workplace.pdf
 |   |       ├── John Mike Asuncion - No-Code Building for Corporate.pdf
