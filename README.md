@@ -15,7 +15,8 @@ certificates_and_certifications/
 |   |       ├── John Mike Asuncion - No-Code Building for Corporate.pdf
 |   |       ├── John Mike Asuncion - The Impact of AI-Powered Vibe Coding on Data Analytics.pdf
 |   |       ├── John Mike Asuncion - The NGO of the Future - AI & Social Impact.pdf
-|   |       └── John Mike Asuncion - Turning Social Impact Services into a Product with AI.pdf
+|   |       ├── John Mike Asuncion - Turning Social Impact Services into a Product with AI.pdf
+|   |       └── John Mike Asuncion - Work, Reimagined. AI-Powered Augmentation.pdf
 |   |
 |   ├── hackathon_certificates/
 |   |   └── John Mike Asuncion - InnOlympics 2025.pdf
