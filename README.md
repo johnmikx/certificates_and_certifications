@@ -8,6 +8,7 @@ certificates_and_certifications/
 |   ├── edtech/
 |   |   └── eskwelabs/
 |   |       ├── John Mike Asuncion - AI Productivity for Government.pdf
+|   |       ├── John Mike Asuncion - AI Productivity for Social Impact.pdf
 |   |       ├── John Mike Asuncion - Data Literacy in Corporations.pdf
 |   |       ├── John Mike Asuncion - Data Literacy.pdf
 |   |       ├── John Mike Asuncion - Data Science 101.pdf
